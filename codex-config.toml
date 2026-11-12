@@ -1,0 +1,3 @@
+# Merge into existing Codex configuration after public release.
+[mcp_servers.hostveritas]
+url = "https://hostveritas.net/mcp"
