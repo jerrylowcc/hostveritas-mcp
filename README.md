@@ -61,3 +61,7 @@ For ChatGPT, add a custom MCP server from Plugins, enter the endpoint above and 
 See the [live guide](https://hostveritas.net/ai/hosting-research) for availability and the current tested-client status. Report connection problems to [hello@hostveritas.net](mailto:hello@hostveritas.net), with your client/version and a redacted error message. Omit credentials and private prompts.
 
 [Privacy](https://hostveritas.net/privacy) · [Terms](https://hostveritas.net/terms) · [Methodology](https://hostveritas.net/methodology)
+
+## Demonstration
+
+[Captioned walkthrough of completed production tests](demo/hostveritas-mcp-demo.mp4). Includes captured ChatGPT and Claude results from 12 November 2026; no private account data or application code is included.
