@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hostveritas": {
+      "type": "http",
+      "url": "https://hostveritas.net/mcp"
+    }
+  }
+}
